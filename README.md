@@ -1,2 +1,5 @@
-# Resume
-My updated resume showcasing education, skills, projects, and experience in software development, machine learning, and open-source contributions.
+#Amlan Anshuman Nayak – Resume
+
+This repository contains my updated resume for internships and open-source programs like GirlScript Summer of Code (GSSoC), showcasing my skills in software development, machine learning, and collaborative coding.
+
+[View Resume](./Amlan_Resume.pdf)
